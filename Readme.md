@@ -1,5 +1,7 @@
-CRM UI 📊✨
-Effortless client management with a sleek, intuitive interface.
+# CRM UI 📊✨ </br>
+
+## Effortless client management with a sleek, intuitive interface. </br>
+
 This CRM UI is designed for efficiency, helping businesses manage customer interactions with a modern, user-friendly experience. Built with Flutter, it offers seamless navigation, responsive layouts, and visually appealing components. </br>
 
 🚀 Tech Stack: </br>
